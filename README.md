@@ -1,7 +1,7 @@
 ### Hi there, Adi here. 👋
 
 
-I’m interested in anything related to data science and machine learning. 
+I’m an AWS Certified Machine Learning Specialist.
 
 
 
