@@ -3,7 +3,7 @@
 
 I’m an AWS Certified Machine Learning Specialist.
 
-![ml-specialty-image](images/aws_mls-badge.png)
+![ml-specialty-image](images/aws_mls.png)
 
 <!--
 **drnefischer/drnefischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
